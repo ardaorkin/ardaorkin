@@ -35,3 +35,11 @@ This challenging behavior of software development is fascinating to me. So I kee
 
 ---
 
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://ardaorkin.hashnode.dev)
+
+---
