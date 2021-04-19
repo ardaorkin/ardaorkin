@@ -29,7 +29,18 @@ This challenging behavior of software development is fascinating to me. So I kee
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="Apollo Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="Apollo Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="60" height="60"/>
 
 
 ---
