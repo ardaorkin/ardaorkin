@@ -43,3 +43,9 @@ This challenging behavior of software development is fascinating to me. So I kee
 ▶ [...more blog articles](https://ardaorkin.hashnode.dev)
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaorkin&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardaorkin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
