@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/twitter/follow/OrkinArda?style=for-the-badge&logo=appveyor https://img.shields.io/github/followers/ardaorkin?style=for-the-badge&logo=appveyor
-
+![Twitter Follow](https://img.shields.io/twitter/follow/OrkinArda?style=for-the-badge&logo=appveyor) ![GitHub followers](https://img.shields.io/github/followers/ardaorkin?style=for-the-badge&logo=appveyor)
