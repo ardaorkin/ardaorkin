@@ -25,6 +25,7 @@ This challenging behavior of software development is fascinating to me. So I kee
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Todo App With GraphQL, Express.js & React - Episode 1](https://ardaorkin.hashnode.dev/todo-app-with-graphql-expressjs-and-react-episode-1)
 - [Parcel Tracking Application With RabbitMQ](https://ardaorkin.hashnode.dev/parcel-tracking-application-with-rabbitmq)
 <!-- BLOG-POST-LIST:END -->
 
