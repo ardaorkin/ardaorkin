@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arda Örkin!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/OrkinArda?style=social) ![GitHub followers](https://img.shields.io/github/followers/ardaorkin?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ardaorkin?style=social) ![GitHub followers](https://img.shields.io/github/followers/ardaorkin?style=social)
 
 ---
 
