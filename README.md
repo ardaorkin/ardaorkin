@@ -4,7 +4,7 @@
 
 ---
 
-I love designing, creating, coding useful applications.
+I love to design, create and code usefull applications.
 
 At the beginning of my tech career, I started as a Linux system administrator. In time, I realized that software development is highly attractive to me. Therefore I chose to make a good career in software development. 
 
