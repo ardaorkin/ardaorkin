@@ -22,7 +22,7 @@ This challenging behavior of software development is fascinating to me. So I kee
 - [Parcel Tracking Application With RabbitMQ](https://ardaorkin.hashnode.dev/parcel-tracking-application-with-rabbitmq)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://ardaorkin.hashnode.dev)
+▶ [...more blog articles](https://ardaorkin.medium.com/)
 
 ---
 
