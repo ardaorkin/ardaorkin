@@ -4,10 +4,6 @@
 
 ---
 
-Certainly! Here’s a polished version for your GitHub profile:
-
----
-
 ### About Me
 
 I am passionate about designing, creating, and coding useful applications.
